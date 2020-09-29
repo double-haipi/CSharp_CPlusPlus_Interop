@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  XMLHttpRequest.cpp
+h:\study\dlltest\xmlhttprequest.cpp(84): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+h:\study\dlltest\xmlhttprequest.cpp(111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  DLLTest.vcxproj -> H:\PandoraProjects\wangzhe\Assets\Plugins\x64\DLLTest.dll
